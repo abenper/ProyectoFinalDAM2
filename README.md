@@ -12,7 +12,6 @@
 - [Uso](#-uso)
 - [Contribución](#-contribución)
 - [Licencia](#-licencia)
-- [Contacto](#-contacto)
 
 ---
 
