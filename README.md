@@ -74,7 +74,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local.
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/TU_USUARIO/GasFinderPro.git](https://github.com/TU_USUARIO/GasFinderPro.git)
+git clone [https://github.com/abenper/ProyectoFinalDAM2.git](https://github.com/abenper/ProyectoFinalDAM2.git)
 cd GasFinderPro
 ```
 
@@ -117,12 +117,3 @@ Abre el proyecto en Android Studio, espera a que Gradle sincronice y presiona **
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
----
-
-## 📞 Contacto
-
-Desarrollado por **[Tu Nombre]**.
-
-- 📧 Email: tu-email@ejemplo.com
-- 💼 LinkedIn: [Tu Perfil](https://linkedin.com)
-- 🐙 GitHub: [@TuUsuario](https://github.com)
